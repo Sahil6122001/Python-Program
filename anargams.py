@@ -1,6 +1,6 @@
-s = input()
 a = input()
-if(sorted(a)==sorted(s)):
-    print("yes anargams")
+b =input()
+if(sorted(a) == sorted(b)):
+    print("Anagram")
 else:
-    print("no")
+    print("not anagrams")
